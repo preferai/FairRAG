@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to FairRAG! Our project aims to examine the impact of various retrieval methods in Retrieval-Augmented Generative (RAG) systems when paired with Large Language Models (LLMs). This project focuses on identifying and addressing biases towards popular content in the retrieval process, which is critical for ensuring fairness and accuracy in LLM outputs.
 
+![RAG Pipeline](RAG_Workflow.png)
+
 ## Objectives
 - Investigate the influence of dense and sparse vector retrieval methods in RAG systems.
 - Identify and mitigate popularity biases in the retrieval process.
