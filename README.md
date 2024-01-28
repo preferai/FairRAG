@@ -15,7 +15,7 @@ FairRAG is committed to open-source principles. We provide the research communit
 (TODO: Add installation instructions and usage examples)
 
 ## Contributions
-We welcome contributions from the community! Please see our contributing guidelines for more information.
+We welcome contributions from the community! 
 
 ## License
 This project is licensed under the [Mit License](LICENSE.md) - see the LICENSE.md file for details.
