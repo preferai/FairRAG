@@ -20,10 +20,9 @@ We welcome contributions from the community! Please see our contributing guideli
 ## License
 This project is licensed under the [Mit License](LICENSE.md) - see the LICENSE.md file for details.
 
-## Acknowledgments
-This project aligns with the goals of NGI0 Core, emphasizing innovation and ethical advancements with new technologies. We also aim to present our findings at relevant scientific conferences, contributing to the broader research community.
-
 ## Contact
-For inquiries, please contact [info@preferai.hr](info@preferai.hr).
+For inquiries, please contact [info@preferai.hr](mailto:info@preferai.hr).
+
 Web: [https://preferai.hr/](https://preferai.hr/)
+
 Thank you for your interest in FairRAG
